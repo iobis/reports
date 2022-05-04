@@ -16,3 +16,4 @@ In case of issues with any of the reports, please contact [helpdesk@obis.org](ma
 - [Non WoRMS matching names](https://github.com/iobis/non-matching-names)
 - [Marine data in GBIF](http://iobis.github.io/gbif-marine/) (preliminary)
 - [Datasets added to the OBIS network in GBIF](https://github.com/iobis/obis-network-datasets)
+- [Identifying duplicate datasets in OBIS](https://iobis.github.io/notebook-duplicates/)
