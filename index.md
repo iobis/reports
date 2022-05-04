@@ -9,8 +9,9 @@ nav_exclude: true
 
 In case of issues with any of the reports, please contact [helpdesk@obis.org](mailto:helpdesk@obis.org).
 
-*   [Data quality by node and dataset](quality)
-*   [MeasurementOrFact statistics by dataset](mof)
-*   [MeasurementOrFact measurement types](https://mof.obis.org)
-*   [Datasets published to GBIF](gbif)
-*   [Marine data in GBIF](http://iobis.github.io/gbif-marine/) (preliminary)
+* [Data quality by node and dataset](https://r.obis.org/quality)
+* [MeasurementOrFact statistics by dataset](https://r.obis.org/mof)
+* [MeasurementOrFact measurement types](https://mof.obis.org)
+* [Datasets published to GBIF](https://r.obis.org/gbif)
+* [Marine data in GBIF](http://iobis.github.io/gbif-marine/) (preliminary)
+* [Non matching names](https://github.com/iobis/non-matching-names)
