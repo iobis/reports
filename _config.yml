@@ -1,0 +1,16 @@
+name: OBIS reports
+title: OBIS reports
+baseurl: "/"
+url: "https://reports.obis.org"
+permalink: pretty
+heading_anchors: true
+search_enabled: false
+ga_tracking: UA-119617958-2
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: false
+remote_theme: just-the-docs/just-the-docs
+plugins:
+  - jekyll-remote-theme
